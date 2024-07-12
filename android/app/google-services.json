@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737846256314",
+    "project_id": "histreet-application",
+    "storage_bucket": "histreet-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737846256314:android:2a51c218b606fa709d1883",
+        "android_client_info": {
+          "package_name": "com.example.histreet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrvzydqqSFbp0b0brSNYqU8bdphE-b8BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
